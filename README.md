@@ -5,7 +5,8 @@
 
 ## Bonjour tout le monde !
 
-Je suis développeur web en formation à la web@cadémie by Epitech 👨🏼‍🎓 et en alternance depuis septembre 2021 au sein de l'entreprise Club Employés
+Je suis développeur web en formation à la web@cadémie by Epitech 👨🏼‍🎓<br/>
+En alternance depuis septembre 2021 au sein de l'entreprise Club Employés
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/christopher-debray"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
