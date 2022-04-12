@@ -3,24 +3,25 @@
 ------------------------------------------
 <div align="center">
 
-## Bonjour tout le monde 👨🏼‍💻
+## Bonjour tout le monde !
 
-Je suis développeur web en formation à la web@cadémie by Epitech 👨🏼‍🎓,
+Je suis développeur web en formation à la web@cadémie by Epitech 👨🏼‍🎓 et en alternance depuis septembre 2021 au sein de l'entreprise Club Employés
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/christopher-debray"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:christopherdebray1@gmail.com?subject=Bonjour%20Christopher"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-j'ai une passion pour les nouvelles technologies et l'espace.
+J'ai une passion pour les nouvelles technologies et l'espace. 🌟
 
-J'aime apprendre,<br>
 J'aime comprendre,<br>
 J'aime réussir<br>
+<i>Et surtout</i><br>
+<b>J'aime apprendre 📖 </b>
 
 ------------------------------------------
 
-Je touches à tout, même si j'ai principalement travaillé sur du php plus particulièrement en Symfony.
+Je touche à tout, même si j'ai principalement travaillé sur du php plus particulièrement en Symfony.
 
 ------------------------------------------
 
@@ -29,7 +30,7 @@ Je touches à tout, même si j'ai principalement travaillé sur du php plus part
   <img src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Symfony-8222c7?style=for-the-badge&logo=symfony&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp;&nbsp;
@@ -41,6 +42,7 @@ Je touches à tout, même si j'ai principalement travaillé sur du php plus part
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Docker-42abe3?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
 
 ------------------------------------------
